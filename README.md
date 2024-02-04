@@ -1,4 +1,5 @@
 ## xxljob-autoregister-spring-boot-starter
+地址介绍：https://mp.weixin.qq.com/s/l-vYUmUk3NTF_h7w88H1BA
 
 **********************************
 
